@@ -3,3 +3,8 @@
 
 print("Pranshu Verma")
 print("Hello python")
+
+def chai(n):
+  print(n)
+    
+chai("Hello python hey")      
