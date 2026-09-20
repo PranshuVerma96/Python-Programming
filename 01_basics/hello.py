@@ -7,4 +7,7 @@ print("Hello python")
 def chai(n):
   print(n)
     
+
+chai_one = "leman tea"
+chai_two = "masala chai"    
 chai("Hello python hey")      
