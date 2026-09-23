@@ -1,7 +1,7 @@
 # Convert the string into uppercase, lowercase, and title case.
 
 myName = "pranshu"
-# upercase 
+# percase 
 result = myName.upper()
 print(result)
 
