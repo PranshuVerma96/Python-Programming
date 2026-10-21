@@ -25,3 +25,6 @@ print(math.pi)
 print(math.factorial(9))
 
 print(random.random())
+
+cube = lambda x : x**3
+print(cube(9))
