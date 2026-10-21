@@ -149,7 +149,7 @@ for key in myDict:
   print(key)
 
 # iterate through values 
-for values in myDict:
+for values in myDict.values():
   print(values)
   
 # iterate through items  # 
