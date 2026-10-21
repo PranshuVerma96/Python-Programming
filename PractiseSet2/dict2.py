@@ -159,3 +159,14 @@ for key,value in myDict.items():
 myLength = len(myDict)  
 print(myLength)
    
+
+student = {
+    "name": "Pranshu",
+    "age": 21
+}
+
+result = student.setdefault("name", "Rahul")
+result = student.setdefault("city","Lucknow")
+
+print(result)
+print(student)
