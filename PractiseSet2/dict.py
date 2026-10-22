@@ -19,7 +19,7 @@ studentInfo = {
 
 print(studentInfo)
 
-# acccessing value 
+#acccessing value 
 print(studentInfo["name"])
 # print(studentInfo["Dia"]) # this will rise key error 
 # because the dictionary there is no key by name dia
