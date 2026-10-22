@@ -1,6 +1,6 @@
 # .  Describe the way a Python dictionary holds key-value pairs, and explain the basic operations to create, access, modify and remove its entries.
 
-# Dictionary  in pyton is a collection of data sotored in key-value pairs Each key is used to access its corresponding value.
+# Dictionary in pyton is a collection of data sotored in key-value pairs Each key is used to access its corresponding value.
 
 # creating the dictionary 
 myDict = dict()
