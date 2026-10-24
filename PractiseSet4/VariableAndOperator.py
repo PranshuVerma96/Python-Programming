@@ -8,7 +8,7 @@
 number1 = float(input("Enter first number : "))
 number2 = float(input("Enter Second number : "))
 
-sum = number1 + number1
+sum = number1 + number2
 print("Sum is: ",sum)
 
 multiply = number1* number2
@@ -23,3 +23,5 @@ else:
 subTraction = number1 - number2
 print("subtraction is : " , subTraction)    
 
+quotient = number1 // number2
+print("quotient is : ", quotient)
