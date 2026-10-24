@@ -3,7 +3,7 @@
 # understand than a lambda functio
 
 # function is block of code 
-# that is used 
+# that is used perfom a specific task 
 def Sum(a,b):
   return a+b
 
